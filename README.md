@@ -1,21 +1,26 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to Git, GitHub, and GitHub Flow</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module provides a comprehensive introduction to Git and GitHub, and covers the mechanical process of GitHub flow detailed in [GitHub's documentation](https://docs.github.com/en/get-started/using-github/github-flow). GitHub describes GitHub flow as "a lightweight, branch-based workflow [...] useful for everyone, not just developers."
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Version Control and Git Concepts](./version-control-and-git-concepts/README.md) | 5 min       | Define the significance of version control, focusing on git-flavored version control specifically. |
+| [GitHub Concepts](./github-concepts/README.md)                                   | 5 min       | Explore the role GitHub plays in the Git ecosystem and how it is different from Git.               |
+| [Create and Clone a GitHub Repo](./create-and-clone-a-github-repo/README.md)     | 10 min      | Create a repository on GitHub and clone it to a local device.                                      |
+| [Git Branches](./git-branches/README.md)                                         | 10 min      | Create and switch between branches.                                                                |
+| [Contributing Code](./contributing-code/README.md)                               | 15 min      | Contribute code to a branch in a repository. Push modified branches to GitHub.                     |
+| [Create and Merge Pull Requests](./create-and-merge-pull-requests/README.md)     | 15 min      | Contribute to a repository by creating and merging pull requests.                                  |
+| [Merge Code Locally](./merge-code-locally/README.md)                             | 5 min       | Pull code from a remote repository and merge it locally.                                           |
+| [Handling Merge Conflicts](./handling-merge-conflicts/README.md)                 | 40 min      | Understand how merge conflicts happen, how to resolve them, and how to avoid them.                 |
+| [Cheat Sheet](./cheat-sheet/README.md)                                           | --          | A useful cheat sheet summarizing the GitHub flow process.                                          |
+| **Total content**                                                                | 1 hr 45 min |                                                                                                    |
 
 ## References
 
@@ -25,32 +30,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- Intro to the CLI
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/fallback.html)
 
 ### Resources
 

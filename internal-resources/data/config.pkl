@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Intro to Git, GitHub, and GitHub Flow"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "intro-to-git-github-and-github-flow"
   type = "Lesson"
 }
 
