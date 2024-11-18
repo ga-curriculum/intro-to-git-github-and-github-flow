@@ -20,17 +20,35 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      mls.versionControlAndGitConcepts
+      mls.githubConcepts
+      mls.createAndCloneAGithubRepo
+      mls.gitBranches
+      mls.contributingCode
+      mls.createAndMergePullRequests
+      mls.mergeCodeLocally
+      mls.handlingMergeConflicts
+      (mls.cheatSheet) {
+        type = "Level Up content"
+      }
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.versionControlAndGitConcepts
+      mls.githubConcepts
+      mls.createAndCloneAGithubRepo
+      mls.gitBranches
+      mls.contributingCode
+      mls.createAndMergePullRequests
+      mls.mergeCodeLocally
+      mls.handlingMergeConflicts
+      mls.cheatSheet
     }
   }
 }
