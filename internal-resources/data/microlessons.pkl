@@ -2,30 +2,65 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+versionControlAndGitConcepts = new Template.Microlesson {
+  friendlyName = "Version Control and Git Concepts"
+  dirName = "version-control-and-git-concepts"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+githubConcepts = new Template.Microlesson {
+  friendlyName = "GitHub Concepts"
+  dirName = "github-concepts"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+createAndCloneAGithubRepo = new Template.Microlesson {
+  friendlyName = "Create and Clone a GitHub Repo"
+  dirName = "create-and-clone-a-github-repo"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+gitBranches = new Template.Microlesson {
+  friendlyName = "Git Branches"
+  dirName = "git-branches"
+  type = "Content"
+  videoUrl = ""
+}
+
+contributingCode = new Template.Microlesson {
+  friendlyName = "Contributing Code"
+  dirName = "contributing-code"
+  type = "Content"
+  videoUrl = ""
+}
+
+createAndMergePullRequests = new Template.Microlesson {
+  friendlyName = "Create and Merge Pull Requests"
+  dirName = "create-and-merge-pull-requests"
+  type = "Content"
+  videoUrl = ""
+}
+
+mergeCodeLocally = new Template.Microlesson {
+  friendlyName = "Merge Code Locally"
+  dirName = "merge-code-locally"
+  type = "Content"
+  videoUrl = ""
+}
+
+handlingMergeConflicts = new Template.Microlesson {
+  friendlyName = "Handling Merge Conflicts"
+  dirName = "handling-merge-conflicts"
+  type = "Content"
+  videoUrl = ""
+}
+
+cheatSheet = new Template.Microlesson {
+  friendlyName = "Cheat Sheet"
+  dirName = "cheatSheet"
   type = "Content"
   videoUrl = ""
 }
