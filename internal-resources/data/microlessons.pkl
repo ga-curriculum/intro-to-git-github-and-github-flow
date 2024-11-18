@@ -60,7 +60,7 @@ handlingMergeConflicts = new Template.Microlesson {
 
 cheatSheet = new Template.Microlesson {
   friendlyName = "Cheat Sheet"
-  dirName = "cheatSheet"
+  dirName = "cheat-sheet"
   type = "Content"
   videoUrl = ""
 }

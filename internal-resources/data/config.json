@@ -101,7 +101,7 @@
         },
         {
           "friendlyName": "Cheat Sheet",
-          "dirName": "cheatSheet",
+          "dirName": "cheat-sheet",
           "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
@@ -220,7 +220,7 @@
         },
         {
           "friendlyName": "Cheat Sheet",
-          "dirName": "cheatSheet",
+          "dirName": "cheat-sheet",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
