@@ -17,16 +17,16 @@ This module provides a comprehensive introduction to Git and GitHub, and covers 
 | [Git Branches](../git-branches/README.md)                                         |       10 min       | Create and switch between branches.                                                                |
 | [Contributing Code](../contributing-code/README.md)                               |       15 min       | Contribute code to a branch in a repository. Push modified branches to GitHub.                     |
 | [Create and Merge Pull Requests](../create-and-merge-pull-requests/README.md)     |       15 min       | Contribute to a repository by creating and merging pull requests.                                  |
-| [Merge Code Locally](../merge-code-locally/README.md)                             |       5 min        | Pull code from a remote repository and merge it locally.                                           |
-| [Handling Merge Conflicts](../handling-merge-conflicts/README.md)                 |       40 min       | Understand how merge conflicts happen, how to resolve them, and how to avoid them.                 |
-| **Total content**                                                                 |    1 hr 45 min     |                                                                                                    |
+| **Total content**                                                                 |       60 min       |                                                                                                    |
 
 ## Level Up content
 
-| Lesson                                  | Est. Delivery Time | Skills                                                    |
-| --------------------------------------- | :----------------: | --------------------------------------------------------- |
-| [Cheat Sheet](../cheat-sheet/README.md) |         --         | A useful cheat sheet summarizing the GitHub flow process. |
-| **Total Level Up content**              |         --         |                                                           |
+| Lesson                                                            | Est. Delivery Time | Skills                                                                             |
+| ----------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------- |
+| [Merge Code Locally](../merge-code-locally/README.md)             |       5 min        | Pull code from a remote repository and merge it locally.                           |
+| [Handling Merge Conflicts](../handling-merge-conflicts/README.md) |       40 min       | Understand how merge conflicts happen, how to resolve them, and how to avoid them. |
+| [Cheat Sheet](../cheat-sheet/README.md)                           |         --         | A useful cheat sheet summarizing the GitHub flow process.                          |
+| **Total Level Up content**                                        |       45 min       |                                                                                    |
 
 ## References
 
