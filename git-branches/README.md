@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Intro to Git, GitHub, and GitHub Flow</span>
-  <span class="subhead">Git Branching</span>
+  <span class="subhead">Git Branches</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to manage branches in Git following GitHub flow, including creating branches and switching between them.
@@ -65,7 +65,7 @@ git branch
 
 You should see a list of branches with an asterisk (`*`) next to the branch you are currently on (`main`).
 
-Hit the `q` key to exit this view.
+Hit the <kbd>Q</kbd> key to exit this view.
 
 ## Switch to a branch
 
@@ -85,7 +85,7 @@ git checkout new-feature
 
 If you use the `git branch` command again, you should see the asterisk next to the new branch, indicating that you are now on the new `new-feature` branch.
 
-Hit the `q` key to exit this view.
+Hit the <kbd>Q</kbd> key to exit this view.
 
 The prompt on your terminal should change as well. The screenshot below shows this flow.
 

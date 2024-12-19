@@ -78,6 +78,8 @@ git commit -m "add merge conflicts file"
 
 ### Push the branch to GitHub
 
+![Add, commit, and push.](./assets/write-and-push-code.png)
+
 Push the newly created branch to the remote repository:
 
 ```bash
