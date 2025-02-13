@@ -34,6 +34,7 @@ This module provides a comprehensive introduction to Git and GitHub, and covers 
 
 ### Course landing pages
 
+- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/apd.html)
 - [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/itb.html)
 - [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/mea.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/fallback.html)

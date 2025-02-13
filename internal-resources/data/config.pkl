@@ -20,6 +20,22 @@ repo {
 
 courses {
   new {
+    name = "apd"
+    microlessons {
+      mls.versionControlAndGitConcepts
+      mls.githubConcepts
+      mls.createAndCloneAGithubRepo
+      mls.gitBranches
+      mls.contributingCode
+      mls.createAndMergePullRequests
+      mls.mergeCodeLocally
+      mls.handlingMergeConflicts
+      (mls.cheatSheet) {
+        type = "Level Up content"
+      }
+    }
+  }
+  new {
     name = "mea"
     microlessons {
       mls.versionControlAndGitConcepts
