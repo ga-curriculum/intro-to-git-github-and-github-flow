@@ -34,10 +34,10 @@ This module provides a comprehensive introduction to Git and GitHub, and covers 
 
 ### Course landing pages
 
-- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/apd.html)
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/itb.html)
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/mea.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-github-and-github-flow/canvas-landing-pages/fallback.html)
+- [APD - Advanced Python for Developers](https://ga-curriculum.github.io/intro-to-git-github-and-github-flow/canvas-landing-pages/apd.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/intro-to-git-github-and-github-flow/canvas-landing-pages/itb.html)
+- [MEA - Modern Engineering](https://ga-curriculum.github.io/intro-to-git-github-and-github-flow/canvas-landing-pages/mea.html)
+- [Fallback](https://ga-curriculum.github.io/intro-to-git-github-and-github-flow/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -49,4 +49,4 @@ This module provides a comprehensive introduction to Git and GitHub, and covers 
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
